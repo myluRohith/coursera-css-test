@@ -42,22 +42,11 @@ div#sushi{
     text-align: center;
 }
 @media (min-width : 992px){
-    /* .col-lg-3{
-        width: 30%; 
-        float: left;  
-    } */
     .first, .second, .third{
         width:30%;
     }
 }
 @media (min-width : 768px) and (max-width : 991px){
-    /* .col-md-2{
-        width: 50%;
-        float: left;
-    }
-    section:nth-of-type(3){
-        width: 100%;
-    } */
     .first, .second{
         width: 48%;
     }
@@ -71,10 +60,6 @@ div#sushi{
      
 }
 @media (max-width : 767px){
-   /*  .col-sm-1{
-        width: 100%;
-        float: left;
-    } */
     .first, .second, .third{
         width: 100%;
     }
